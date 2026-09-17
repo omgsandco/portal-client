@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "OMGS & CO",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyC9mvydAcUWmO5tiHtsZihwWadYMhMik8I",
     whatsappAdmin: "6285174445056" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
